@@ -1,5 +1,5 @@
 # -- FILE: features/example.feature
-Feature: Showing off behave
+Feature: Example for behave
 
   Scenario: Run a simple test
     Given we have behave installed - example

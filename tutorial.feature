@@ -1,4 +1,4 @@
-Feature: showing off behave
+Feature: Tutorial for behave
 
   Scenario: run a simple test
      Given we have behave installed - tutorial
