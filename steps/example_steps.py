@@ -1,7 +1,7 @@
 # -- FILE: features/steps/example_steps.py
 from behave import given, when, then, step
 
-@given('we have behave installed')
+@given('we have behave installed - example')
 def step_impl(context):
     pass
 
